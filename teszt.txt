@@ -1,1 +1,3 @@
 életem első commitja
+
+megmutatom mi jelenik meg belépésnél
